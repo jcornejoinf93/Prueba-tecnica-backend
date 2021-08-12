@@ -1,16 +1,19 @@
-CRUD EN NODE CON MYSQL
+# CRUD EN NODE CON MYSQL
 
-Indicaciones para levantar la app:
+## VERSIÓN NODE:
+14.15.4
+
+##  Indicaciones para levantar la app:
 
 Ejecutar:
 ```
 npm i
 ```
 
-Crear una base de datos en mysql con el nombre azurian que este disponible en localhost.
+Se debe una base de datos en mysql con el nombre azurian que este disponible en localhost.
 
 ```
-CREATE DATABASE azurian
+CREATE DATABASE azurian;
 ```
 
 Se puede utilizar el script azurian.sql (opcional, ya que la tabla que se utilizará será creada automaticamente por la app).
